@@ -26,7 +26,7 @@ Exemplificação de formulário de contato usando Javascript
 .
 ├── README.md
 ├── index.html
-├── script.html
+├── script.js
 └── style.css
 ```
 
